@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satwikk26/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
+| [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -95,9 +96,14 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Stack
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
