@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
@@ -77,6 +78,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/satwikk26/leetcode-cpp/tree/master/0009-palindrome-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -94,6 +96,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
@@ -112,4 +115,12 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
