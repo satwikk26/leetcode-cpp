@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satwikk26/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
