@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
@@ -63,6 +64,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
